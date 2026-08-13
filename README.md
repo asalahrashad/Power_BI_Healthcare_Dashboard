@@ -14,13 +14,11 @@
 
 ## 📸 Dashboard Preview
 
-> **Note:** *(Replace the placeholder links below with your actual screenshot paths)*
 
 | Overview | Patient Details |
 | :---: | :---: |
-| <img src="Screenshots/overview.png" width="400" alt="Overview Dashboard"> | <img src="Screenshots/patients.png" width="400" alt="Patient Details Dashboard"> |
-| **Provider Insights** | **Follow-up Metrics** |
-| <img src="Screenshots/providers.png" width="400" alt="Provider Insights"> | <img src="Screenshots/followup.png" width="400" alt="Follow Up"> |
+| <img src="Screenshots/Dashboard.png" width="400" alt="Overview Dashboard"> | <img src="Screenshots/Patients Details.png" width="400" alt="Patient Details Dashboard"> |
+
 
 ---
 
@@ -53,8 +51,6 @@ Provides a high-level, executive view of the healthcare operation. It highlights
 2️⃣ Patients Details
 Dives deep into the patient journey. It offers detailed insights into patient activity, visit history, satisfaction ratings, and follow-up behavioral patterns.
 
-3️⃣ Providers Insights
-Focuses on the medical staff. It analyzes individual provider performance, compares key performance indicators across different providers, and helps identify areas for operational improvement.
 
 🛠️ Tools, Technologies & Features
 Core Stack
